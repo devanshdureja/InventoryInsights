@@ -1,1 +1,2 @@
 # InventoryInsights
+The InventoryInsights is a desktop-based application developed to streamline and automate the process of tracking, managing, and updating inventory for small to medium-sized organizations. Traditionally, businesses managed stock manually using registers or spreadsheets, which often led to errors, inefficiencies, and delays. This project aims to solve those challenges through a computerized solution that provides real-time visibility and control over product inventory.
